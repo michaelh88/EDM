@@ -1,0 +1,1 @@
+#loading,.black_overlay{display:none;position:absolute}.black_overlay{top:0;left:0;width:100%;height:100%;background-color:#fff;z-index:1001;-moz-opacity:.8;opacity:.8;filter:alpha(opacity=80)}#loading{top:30%;left:40%;padding:50px;width:250px;z-index:1002;overflow:auto;background-image:url(ajax_loader.gif);background-repeat:no-repeat}

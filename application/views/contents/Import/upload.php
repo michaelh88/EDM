@@ -1,0 +1,1 @@
+<?php if ($uploaded_file): ?><h1>Fichier importé</h1>Voici la liste des fichiers:<br/><?php	foreach ($tb_document as $val) {		echo "<b>".$val."</b><br/>";	}	echo "<hr/><br/>";	echo "Resultat: ".$result."<br/>";?><?php else: ?><h1>Erreur importation fichier</h1><p><?php echo $error_message ?></p><?php endif ?>

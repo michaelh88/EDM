@@ -1,0 +1,233 @@
+<?php defined('SYSPATH') OR die('No direct script access.'); ?>
+
+2017-07-12 11:00:29 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9363] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:01:41 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9364] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:04:26 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9365] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:04:52 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9366] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:06:04 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9367] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:06:28 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9368] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:06:50 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9369] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:07:58 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9370] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:08:22 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9371] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:08:45 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9372] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:09:09 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9373] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:11:06 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9374] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:12:03 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9375] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:12:35 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9376] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:12:57 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9377] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:13:21 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9378] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:13:40 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9379] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:14:02 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9380] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:14:23 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9381] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:14:54 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9382] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:15:28 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9383] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:16:11 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9384] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:16:33 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9385] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:16:58 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9386] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:19:02 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9387] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:19:45 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9388] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:20:11 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9389] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:20:35 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9390] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:20:59 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9391] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:21:20 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9392] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:21:44 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9393] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:22:02 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9394] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:24:58 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9395] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:25:52 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9396] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:27:21 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9397] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:29:40 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9398] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:30:10 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9399] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:30:35 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9400] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:30:58 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9401] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:31:22 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9402] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:33:32 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9403] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:33:55 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9404] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:34:34 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9405] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:34:52 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9406] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:36:38 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9407] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:36:49 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9408] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:37:08 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9409] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:37:14 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9410] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:37:25 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9411] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:37:30 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9412] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:37:33 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9413] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:37:36 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9414] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:37:51 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9415] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:38:11 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9416] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:38:17 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9417] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:39:17 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9418] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:39:43 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9419] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:39:57 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9420] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:40:09 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9421] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:40:27 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9422] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:40:31 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9423] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:40:48 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9424] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:40:53 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9425] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:41:00 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9426] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:41:14 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9427] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:42:06 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9428] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:42:18 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9429] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:42:24 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9430] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:42:36 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9431] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:42:46 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9432] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:42:52 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9433] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:43:42 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9434] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:44:00 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9435] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:44:04 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9436] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:44:10 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9437] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:44:29 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9438] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:45:12 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9439] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:45:21 --- EMERGENCY: Database_Exception [ 2013 ]: Lost connection to MySQL server during query [ SELECT COUNT(*) as nb,SUM(avancement_globale) as somme FROM (SELECT lot.lot_id,										   lot.nombre_doc,										   lot.datetime_creation,										   commande_vivetic,										   nom_zip,										   nom_zip_original,										   createur_lot,										   datetime_modification,										   modificateur_lot,										   datetime_validation,										   p.nom_projet,										   lot.projet_id,										   av.avancement_globale,										   lot.nombre_doc volume_piece,										   nom_zip_temp,										CASE											WHEN termine = 1 THEN SEC_TO_TIME(TIMESTAMPDIFF(SECOND, lot.datetime_creation, datetime_debut_max))											WHEN termine = 0 THEN SEC_TO_TIME(TIMESTAMPDIFF(SECOND, lot.datetime_creation, NOW()))										END AS duree_traitement,       										   termine AS termine_id,										   CASE WHEN termine = 0 THEN "Non Terminé" ELSE "Terminé" END AS termine,										   etat,										   nb_notif,										   nb_total_lot,										   nb_notif AS notif									FROM   lot 										   LEFT JOIN projet p												  ON lot.projet_id = p.projet_id										   LEFT JOIN vw_avancement_global av												   ON lot.lot_id = av.lot_id												   										   left join vw_alerte_finale al											on lot.lot_id = al.lot_id 										   LEFT JOIN ( SELECT mes5.lot_id,															  mes5.nb_notif,															  CASE																WHEN nb_total IS NULL THEN 0																ELSE nb_total															  END AS nb_total_lot													   FROM   ( SELECT l.lot_id,																	   CASE																		 WHEN nb IS NULL THEN 0																		 ELSE nb																	   END AS nb_notif																FROM   lot l																	   LEFT JOIN ( SELECT lot_id,																						  COUNT( * ) AS nb																				   FROM   message																						  INNER JOIN message_user																								  ON message.message_id = message_user.message_id																				   WHERE  datetime_lecture IS NULL AND																						  message_user.user_id = 16																				   GROUP  BY lot_id ) t_nb																			  ON l.lot_id = t_nb.lot_id ) mes5															  LEFT JOIN ( SELECT lot_id,																				 COUNT( * ) AS nb_total																		  FROM   message																				 INNER JOIN message_user																						 ON message.message_id = message_user.message_id																		  WHERE  message_user.user_id = 16																		  GROUP  BY lot_id ) mes6																	 ON mes5.lot_id = mes6.lot_id ) nots												  ON lot.lot_id = nots.lot_id							WHERE 1=1  AND lot.projet_id IN (8,9,10,11,12,13,14) AND termine IN (0,1)ORDER BY  lot_id asc) al ] ~ MODPATH/mysqli/classes/Database/MySQLi.php [ 177 ] in /home/fthmgedcbc/www/modules/database/classes/Kohana/Database/Query.php:251
+2017-07-12 11:45:21 --- DEBUG: #0 /home/fthmgedcbc/www/modules/database/classes/Kohana/Database/Query.php(251): Database_MySQLi->query(1, 'SELECT COUNT(*)...', false, Array)
+#1 /home/fthmgedcbc/www/application/classes/Controller/Lot.php(272): Kohana_Database_Query->execute()
+#2 /home/fthmgedcbc/www/system/classes/Kohana/Controller.php(84): Controller_Lot->action_ajax_browse()
+#3 [internal function]: Kohana_Controller->execute()
+#4 /home/fthmgedcbc/www/system/classes/Kohana/Request/Client/Internal.php(97): ReflectionMethod->invoke(Object(Controller_Lot))
+#5 /home/fthmgedcbc/www/system/classes/Kohana/Request/Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 /home/fthmgedcbc/www/system/classes/Kohana/Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 /home/fthmgedcbc/www/index.php(120): Kohana_Request->execute()
+#8 {main} in /home/fthmgedcbc/www/modules/database/classes/Kohana/Database/Query.php:251
+2017-07-12 11:46:04 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9440] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:47:54 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9441] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:48:46 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9442] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:51:09 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9443] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:51:36 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9444] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:51:51 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9445] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:52:00 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9446] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:52:12 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9447] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:53:03 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9448] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:53:54 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9449] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:54:59 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9450] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:56:06 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9451] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:56:32 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9452] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:58:11 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9453] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 11:58:57 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9454] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:01:12 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9455] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:01:38 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9456] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:02:22 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9457] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:02:55 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9458] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:03:19 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9459] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:04:27 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9460] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:04:52 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9461] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:05:20 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9462] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:07:23 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9463] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:13:03 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9464] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:13:52 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9465] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:15:05 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9466] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:15:34 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9467] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:16:01 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9468] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:16:30 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9469] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:17:16 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9470] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:17:17 --- EMERGENCY: Database_Exception [ 2013 ]: Lost connection to MySQL server during query [ SELECT COUNT(*) as nb,SUM(avancement_globale) as somme FROM (SELECT lot.lot_id,										   lot.nombre_doc,										   lot.datetime_creation,										   commande_vivetic,										   nom_zip,										   nom_zip_original,										   createur_lot,										   datetime_modification,										   modificateur_lot,										   datetime_validation,										   p.nom_projet,										   lot.projet_id,										   av.avancement_globale,										   lot.nombre_doc volume_piece,										   nom_zip_temp,										CASE											WHEN termine = 1 THEN SEC_TO_TIME(TIMESTAMPDIFF(SECOND, lot.datetime_creation, datetime_debut_max))											WHEN termine = 0 THEN SEC_TO_TIME(TIMESTAMPDIFF(SECOND, lot.datetime_creation, NOW()))										END AS duree_traitement,       										   termine AS termine_id,										   CASE WHEN termine = 0 THEN "Non Terminé" ELSE "Terminé" END AS termine,										   etat,										   nb_notif,										   nb_total_lot,										   nb_notif AS notif									FROM   lot 										   LEFT JOIN projet p												  ON lot.projet_id = p.projet_id										   LEFT JOIN vw_avancement_global av												   ON lot.lot_id = av.lot_id												   										   left join vw_alerte_finale al											on lot.lot_id = al.lot_id 										   LEFT JOIN ( SELECT mes5.lot_id,															  mes5.nb_notif,															  CASE																WHEN nb_total IS NULL THEN 0																ELSE nb_total															  END AS nb_total_lot													   FROM   ( SELECT l.lot_id,																	   CASE																		 WHEN nb IS NULL THEN 0																		 ELSE nb																	   END AS nb_notif																FROM   lot l																	   LEFT JOIN ( SELECT lot_id,																						  COUNT( * ) AS nb																				   FROM   message																						  INNER JOIN message_user																								  ON message.message_id = message_user.message_id																				   WHERE  datetime_lecture IS NULL AND																						  message_user.user_id = 16																				   GROUP  BY lot_id ) t_nb																			  ON l.lot_id = t_nb.lot_id ) mes5															  LEFT JOIN ( SELECT lot_id,																				 COUNT( * ) AS nb_total																		  FROM   message																				 INNER JOIN message_user																						 ON message.message_id = message_user.message_id																		  WHERE  message_user.user_id = 16																		  GROUP  BY lot_id ) mes6																	 ON mes5.lot_id = mes6.lot_id ) nots												  ON lot.lot_id = nots.lot_id							WHERE 1=1  AND lot.projet_id IN (8,9,10,11,12,13,14) AND termine IN (0,1)ORDER BY  lot_id asc) al ] ~ MODPATH/mysqli/classes/Database/MySQLi.php [ 177 ] in /home/fthmgedcbc/www/modules/database/classes/Kohana/Database/Query.php:251
+2017-07-12 12:17:17 --- DEBUG: #0 /home/fthmgedcbc/www/modules/database/classes/Kohana/Database/Query.php(251): Database_MySQLi->query(1, 'SELECT COUNT(*)...', false, Array)
+#1 /home/fthmgedcbc/www/application/classes/Controller/Lot.php(272): Kohana_Database_Query->execute()
+#2 /home/fthmgedcbc/www/system/classes/Kohana/Controller.php(84): Controller_Lot->action_ajax_browse()
+#3 [internal function]: Kohana_Controller->execute()
+#4 /home/fthmgedcbc/www/system/classes/Kohana/Request/Client/Internal.php(97): ReflectionMethod->invoke(Object(Controller_Lot))
+#5 /home/fthmgedcbc/www/system/classes/Kohana/Request/Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#6 /home/fthmgedcbc/www/system/classes/Kohana/Request.php(997): Kohana_Request_Client->execute(Object(Request))
+#7 /home/fthmgedcbc/www/index.php(120): Kohana_Request->execute()
+#8 {main} in /home/fthmgedcbc/www/modules/database/classes/Kohana/Database/Query.php:251
+2017-07-12 12:18:57 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9471] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:20:54 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9472] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:21:31 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9473] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:21:59 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9474] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:22:26 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9475] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:22:52 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9476] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:23:22 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9477] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:23:53 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9478] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:28:07 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9479] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:28:33 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9480] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:29:14 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9481] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:29:38 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9482] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:31:11 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9483] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:32:51 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9484] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:34:33 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9485] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:35:03 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9486] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:36:56 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9487] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:37:22 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9488] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:37:48 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9489] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:38:04 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9490] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:38:10 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9491] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:38:48 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9492] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:38:59 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9493] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:39:07 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9494] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:41:55 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9495] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:44:11 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9496] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:44:41 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9497] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:45:13 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9498] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:46:24 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9499] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:46:50 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9500] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:47:18 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9501] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:48:29 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9502] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:51:37 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9503] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:53:39 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9504] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:53:58 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9505] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:54:26 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9506] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:54:49 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9507] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:55:04 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9508] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:55:19 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9509] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:55:34 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9510] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:55:59 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9511] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:56:19 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9512] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:56:45 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9513] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:57:08 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9514] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:57:14 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9515] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:57:28 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9516] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:58:36 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9517] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:59:01 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9518] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 12:59:27 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9519] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:01:34 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9520] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:06:02 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9521] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:06:28 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9522] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:08:24 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9523] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:08:44 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9524] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:09:35 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9525] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:10:02 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9526] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:10:29 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9527] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:11:56 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9528] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:13:05 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9529] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:14:43 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9530] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:21:01 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9531] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:22:12 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9532] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:23:09 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9533] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:24:46 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9534] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:25:12 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9535] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:25:40 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9536] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:26:05 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9537] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:26:31 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9538] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:27:18 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9539] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:27:43 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9540] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:28:07 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9541] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:28:32 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9542] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:29:35 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9543] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:30:18 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9544] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:30:38 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9545] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:31:03 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9546] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:31:21 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9547] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:31:44 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9548] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:32:01 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9549] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:32:24 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9550] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:32:30 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9551] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:33:19 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9552] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:35:26 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9553] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:37:36 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9554] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:38:21 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9555] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:40:12 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9556] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:40:38 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9557] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:40:57 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9558] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:41:24 --- INFO: [Utilisateur : svaratraza] [Action : Création du lot 9559] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:46:02 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9560] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:46:41 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9561] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:46:58 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9562] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:47:46 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9563] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:49:16 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9564] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:49:34 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9565] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:49:45 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9566] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:49:54 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9567] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:50:10 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9568] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:51:15 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9569] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:51:19 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9570] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:51:53 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9571] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:52:02 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9572] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84
+2017-07-12 13:52:07 --- INFO: [Utilisateur : ssvatosoa] [Action : Création du lot 9573] in /home/fthmgedcbc/www/system/classes/Kohana/Controller.php:84

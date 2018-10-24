@@ -1,0 +1,53 @@
+#! /bin/sh
+
+list="0002_20150914_000001	nv0lzhwim098djp5ogl3
+0002_20150914_000002	6cdc4loftt2lynjslswq
+0002_20150914_000003	cyfnoq54upq3cum5elkq
+0001_20150915_000004	dgxn5a6khb0l13qb45lt
+0002_20150915_000005	595wftv3empnpxodgogm
+0002_20150915_000006	claqoh3hqfve6cyt2owj
+0001_20150915_000007	g1dasqfljeypfdteupow
+0001_20150915_000008	4n2gkr2xudntohtbmzhc
+0001_20150923_000009	4ntriwkafrfmumg792ql
+0001_20150923_000010	ge4l04wwmffz8fynru93
+0002_20151005_000011	ip3smdvoxwrg0kyjhsl9
+0001_20151006_000012	seuenij5u0m9rtq2zj6r
+0004_20151006_000013	k3dqf9ddxiirpohoyrhp
+0003_20151006_000014	oarn9le7kq2eoi6pcbhf
+0001_20151006_000015	nbewh0dmqiezyx2lzla6
+0001_20151007_000016	jaeco6gl1vmdcts6dmm3
+0001_20151007_000017	qnr3jt2ulylblgdoadav
+0001_20151008_000018	ctg6bodjns7gmhzisw9c
+0001_20151012_000019	0j7qvokerwaciwkjeyyr
+0001_20151012_000020	mu3kvs0hf1i03fuwz7h0
+0002_20151013_000021	n9u78cjhuqj39kl1dg3v
+0002_20151013_000022	eor36o2bl6miuzjek3nm
+0002_20151013_000023	ixjcoi9gs0lkyixapehn
+0002_20151014_000024	upkuzdmvszckbgzg6rby
+0002_20151014_000025	l4a7z9gfhxazpggudeia
+0001_20151016_000026	4jyre2yeewinfsxplmdk
+0002_20151016_000027	bbvpmlndrf7fkpwpjdwg
+0002_20151019_000028	07x1yctm8e5rpga8kz1u
+0002_20151019_000029	qyuxwnbg20oxqdglsayh
+0002_20151019_000030	kdmrs1cea2iikepwjeb7
+0002_20151019_000031	uadecljku7fkxrsliuzw
+0002_20151019_000032	e4wdzcorvtqzcimt26i6
+0002_20151020_000033	qswbxcjths1pxqltl35k
+0002_20151020_000034	pqmte5pttucedvisiwus
+0001_20151020_000035	gpf30phhwmhp7n0eeemq
+0001_20151020_000036	2kwahildafztiqdqgwau
+0002_20151020_000037	lzfntwmio2zanejdmtjs
+0001_20151020_000038	eerd7izepxzikgibqpic"
+
+IFS=$'\n'
+for l in ${list}
+do
+
+  src=$(echo $l|cut -d$'\t' -f2)
+  dst=$(echo $l|cut -d$'\t' -f1)
+
+  cd ~/www/misc/download/
+  cd ${src}
+  mv "$src.zip" "$dst.zip"
+
+done
