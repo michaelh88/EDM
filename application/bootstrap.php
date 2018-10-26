@@ -107,8 +107,8 @@ Kohana::init(array(
 	'base_url'   => '/ged/',
 	'errors'     => TRUE,
 	'profile'    => FALSE,
-	//'index_file' => FALSE,
-	'index_file' => 'index.php',
+	'index_file' => FALSE,
+	//'index_file' => 'index.php',
 ));
 
 /**

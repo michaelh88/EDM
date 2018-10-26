@@ -7,7 +7,7 @@ SetEnv KOHANA_ENV "development"
 RewriteEngine On
 
 # Installation directory
-RewriteBase /
+RewriteBase /ged/
 
 # Protect hidden files from being viewed
 <Files .*>
@@ -23,7 +23,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
 # Rewrite all other URLs to index.php/URL
-RewriteRule .* index.php [PT]
+RewriteRule .* index.php/$0 [PT]
 
 SetOutputFilter DEFLATE
 AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/x-javascript
